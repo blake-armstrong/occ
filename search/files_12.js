@@ -30,7 +30,7 @@ var searchData=
   ['steinhardt_2eh_27',['steinhardt.h',['../steinhardt_8h.html',1,'']]],
   ['sto3g_5fbasis_2eh_28',['sto3g_basis.h',['../sto3g__basis_8h.html',1,'']]],
   ['stockholder_5fweight_2eh_29',['stockholder_weight.h',['../stockholder__weight_8h.html',1,'']]],
-  ['surface_2eh_30',['surface.h',['../solvent_2surface_8h.html',1,'(Global Namespace)'],['../crystal_2surface_8h.html',1,'(Global Namespace)']]],
+  ['surface_2eh_30',['surface.h',['../crystal_2surface_8h.html',1,'(Global Namespace)'],['../solvent_2surface_8h.html',1,'(Global Namespace)']]],
   ['surface_5ftypes_2eh_31',['surface_types.h',['../surface__types_8h.html',1,'']]],
   ['symmetryoperation_2eh_32',['symmetryoperation.h',['../symmetryoperation_8h.html',1,'']]]
 ];
