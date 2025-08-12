@@ -63,6 +63,9 @@ var namespaceocc_1_1main =
     [ "calculate_wavefunctions", "namespaceocc_1_1main.html#ac854257809b5d362970c1d2ca6706e00", null ],
     [ "compute_monomer_energies", "namespaceocc_1_1main.html#acfb5af7abecb5e5c5057d9197f174eb0", null ],
     [ "print_header", "namespaceocc_1_1main.html#ae6120cd9d924a194e7f3a1decd5cb6d8", null ],
+    [ "print_matrix", "namespaceocc_1_1main.html#a01cd7a8ad3876590b98808a48c0db915", null ],
+    [ "print_matrix_full", "namespaceocc_1_1main.html#accb079ec917c3744ae2c40453ad72533", null ],
+    [ "print_matrix_upper_triangle", "namespaceocc_1_1main.html#a70a8ec5fec770d85b148a0f3b427b9ae", null ],
     [ "run_cg", "namespaceocc_1_1main.html#a5cc7e41d5aa002684734b4610a2d2ce5", null ],
     [ "run_cg_subcommand", "namespaceocc_1_1main.html#aa3e66b684794acfcab5f0c1b58aee3e1", null ],
     [ "run_cube_subcommand", "namespaceocc_1_1main.html#a45566c667887d1fe07b48523a1189a09", null ],
@@ -77,6 +80,7 @@ var namespaceocc_1_1main =
     [ "run_pair_subcommand", "namespaceocc_1_1main.html#a608fdd74696cf1352fcd7d9ec6879158", null ],
     [ "run_scf_subcommand", "namespaceocc_1_1main.html#aa6e0de5b65ad14e7e280e4005f7291ce", null ],
     [ "run_surface_cuts_subcommand", "namespaceocc_1_1main.html#aae3df6594d05a9ba23c3faa1775bf850", null ],
+    [ "save_matrix", "namespaceocc_1_1main.html#a15c45247a34a4804c0b3f9f7b81a6b4e", null ],
     [ "to_json", "namespaceocc_1_1main.html#ae6a3ddcf8fae6544589ec5d41ef77449", null ],
     [ "to_json", "namespaceocc_1_1main.html#aba21b5380482aa5b17c8fc7a3cb6ca93", null ]
 ];

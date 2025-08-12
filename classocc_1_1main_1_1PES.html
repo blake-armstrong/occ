@@ -121,11 +121,15 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5ae17024f9b7919a72ec796b78382a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ab9377d35dc4c76768ac3b9bfc02342" id="r_a9ab9377d35dc4c76768ac3b9bfc02342"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PES.html#a9ab9377d35dc4c76768ac3b9bfc02342">shift</a> () const</td></tr>
 <tr class="separator:a9ab9377d35dc4c76768ac3b9bfc02342"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada906259944abdf88ff283ea10d47743" id="r_ada906259944abdf88ff283ea10d47743"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PES.html#ada906259944abdf88ff283ea10d47743">voigt_elastic_tensor_from_hessian</a> (double volume)</td></tr>
+<tr class="separator:ada906259944abdf88ff283ea10d47743"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8dcb29915a8e4f3b07973ae603cbbd4" id="r_ac8dcb29915a8e4f3b07973ae603cbbd4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PES.html#ac8dcb29915a8e4f3b07973ae603cbbd4">compute_voigt_elastic_tensor_analytical</a> (double volume) const</td></tr>
 <tr class="separator:ac8dcb29915a8e4f3b07973ae603cbbd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
+<tr class="memitem:af2878dc755debab4fbd651d597beec0a" id="r_af2878dc755debab4fbd651d597beec0a"><td class="memItemLeft" align="right" valign="top">static std::pair&lt; int, int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PES.html#af2878dc755debab4fbd651d597beec0a">voigt_notation</a> (int voigt)</td></tr>
+<tr class="separator:af2878dc755debab4fbd651d597beec0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5362152b5068858e3bd7c430ce60e312" id="r_a5362152b5068858e3bd7c430ce60e312"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PES.html#a5362152b5068858e3bd7c430ce60e312">to_voigt</a> (const <a class="el" href="namespaceocc.html#a42ba6c49f2c1fab31c69b47a36cc1da1">occ::Mat3</a> C[3][3])</td></tr>
 <tr class="separator:a5362152b5068858e3bd7c430ce60e312"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -324,6 +328,58 @@ Static Public Member Functions</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="namespaceocc.html#a42ba6c49f2c1fab31c69b47a36cc1da1">occ::Mat3</a>&#160;</td>
           <td class="paramname"><em>C</em>[3][3]</td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ada906259944abdf88ff283ea10d47743" name="ada906259944abdf88ff283ea10d47743"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada906259944abdf88ff283ea10d47743">&#9670;&#160;</a></span>voigt_elastic_tensor_from_hessian()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a> occ::main::PES::voigt_elastic_tensor_from_hessian </td>
+          <td>(</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>volume</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af2878dc755debab4fbd651d597beec0a" name="af2878dc755debab4fbd651d597beec0a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2878dc755debab4fbd651d597beec0a">&#9670;&#160;</a></span>voigt_notation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::pair&lt; int, int &gt; occ::main::PES::voigt_notation </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>voigt</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
