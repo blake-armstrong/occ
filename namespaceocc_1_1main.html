@@ -246,8 +246,8 @@ Functions</h2></td></tr>
 <tr class="separator:a70a8ec5fec770d85b148a0f3b427b9ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a01cd7a8ad3876590b98808a48c0db915" id="r_a01cd7a8ad3876590b98808a48c0db915"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a01cd7a8ad3876590b98808a48c0db915">print_matrix</a> (const <a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a> &amp;matrix, bool upper_triangle_only=false, int precision=3, int width=9)</td></tr>
 <tr class="separator:a01cd7a8ad3876590b98808a48c0db915"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15c45247a34a4804c0b3f9f7b81a6b4e" id="r_a15c45247a34a4804c0b3f9f7b81a6b4e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a15c45247a34a4804c0b3f9f7b81a6b4e">save_matrix</a> (const <a class="el" href="namespaceocc.html#a96a6c94f06b8bd220e5edf14b7655e3f">occ::Mat</a> &amp;matrix, const std::string &amp;filename, std::vector&lt; std::string &gt; comments={}, bool upper_triangle_only=true)</td></tr>
-<tr class="separator:a15c45247a34a4804c0b3f9f7b81a6b4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa619fc3f995a97c7aaae255104955ba0" id="r_aa619fc3f995a97c7aaae255104955ba0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#aa619fc3f995a97c7aaae255104955ba0">save_matrix</a> (const <a class="el" href="namespaceocc.html#a96a6c94f06b8bd220e5edf14b7655e3f">occ::Mat</a> &amp;matrix, const std::string &amp;filename, std::vector&lt; std::string &gt; comments={}, bool upper_triangle_only=false, int width=6)</td></tr>
+<tr class="separator:aa619fc3f995a97c7aaae255104955ba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a572bb32ef0103235b7a1e08cea815f0d" id="r_a572bb32ef0103235b7a1e08cea815f0d"><td class="memItemLeft" align="right" valign="top">CLI::App *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a572bb32ef0103235b7a1e08cea815f0d">add_elastic_fit_subcommand</a> (CLI::App &amp;app)</td></tr>
 <tr class="separator:a572bb32ef0103235b7a1e08cea815f0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab7f4f6a26fd92c1b9b9ae74cef088e7f" id="r_ab7f4f6a26fd92c1b9b9ae74cef088e7f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#ab7f4f6a26fd92c1b9b9ae74cef088e7f">run_elastic_fit_subcommand</a> (const <a class="el" href="structocc_1_1main_1_1EFSettings.html">EFSettings</a> &amp;settings)</td></tr>
@@ -1271,8 +1271,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a15c45247a34a4804c0b3f9f7b81a6b4e" name="a15c45247a34a4804c0b3f9f7b81a6b4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15c45247a34a4804c0b3f9f7b81a6b4e">&#9670;&#160;</a></span>save_matrix()</h2>
+<a id="aa619fc3f995a97c7aaae255104955ba0" name="aa619fc3f995a97c7aaae255104955ba0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa619fc3f995a97c7aaae255104955ba0">&#9670;&#160;</a></span>save_matrix()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1302,7 +1302,13 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>upper_triangle_only</em> = <code>true</code>&#160;</td>
+          <td class="paramname"><em>upper_triangle_only</em> = <code>false</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>width</em> = <code>6</code>&#160;</td>
         </tr>
         <tr>
           <td></td>

@@ -81,7 +81,7 @@ var namespaceocc_1_1main =
     [ "run_pair_subcommand", "namespaceocc_1_1main.html#a608fdd74696cf1352fcd7d9ec6879158", null ],
     [ "run_scf_subcommand", "namespaceocc_1_1main.html#aa6e0de5b65ad14e7e280e4005f7291ce", null ],
     [ "run_surface_cuts_subcommand", "namespaceocc_1_1main.html#aae3df6594d05a9ba23c3faa1775bf850", null ],
-    [ "save_matrix", "namespaceocc_1_1main.html#a15c45247a34a4804c0b3f9f7b81a6b4e", null ],
+    [ "save_matrix", "namespaceocc_1_1main.html#aa619fc3f995a97c7aaae255104955ba0", null ],
     [ "to_json", "namespaceocc_1_1main.html#ae6a3ddcf8fae6544589ec5d41ef77449", null ],
     [ "to_json", "namespaceocc_1_1main.html#aba21b5380482aa5b17c8fc7a3cb6ca93", null ]
 ];
