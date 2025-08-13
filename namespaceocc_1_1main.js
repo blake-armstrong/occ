@@ -62,6 +62,7 @@ var namespaceocc_1_1main =
     [ "calculate_wavefunction", "namespaceocc_1_1main.html#aff03b48a0375593fb2ca7183421d129d", null ],
     [ "calculate_wavefunctions", "namespaceocc_1_1main.html#ac854257809b5d362970c1d2ca6706e00", null ],
     [ "compute_monomer_energies", "namespaceocc_1_1main.html#acfb5af7abecb5e5c5057d9197f174eb0", null ],
+    [ "print_cvector", "namespaceocc_1_1main.html#a5e1431a34ada5ff117bb471071f44130", null ],
     [ "print_header", "namespaceocc_1_1main.html#ae6120cd9d924a194e7f3a1decd5cb6d8", null ],
     [ "print_matrix", "namespaceocc_1_1main.html#a01cd7a8ad3876590b98808a48c0db915", null ],
     [ "print_matrix_full", "namespaceocc_1_1main.html#accb079ec917c3744ae2c40453ad72533", null ],

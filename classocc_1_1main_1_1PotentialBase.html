@@ -138,6 +138,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a67d5bfa12d755460f9eca9c19a92d74f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2d1759a748903cdf916cf27fc5531866" id="r_a2d1759a748903cdf916cf27fc5531866"><td class="memItemLeft" align="right" valign="top">const PairIndices &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PotentialBase.html#a2d1759a748903cdf916cf27fc5531866">uc_pair_indices</a> () const</td></tr>
 <tr class="separator:a2d1759a748903cdf916cf27fc5531866"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afebf621761b46adea1eaf8f5879535d6" id="r_afebf621761b46adea1eaf8f5879535d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PotentialBase.html#afebf621761b46adea1eaf8f5879535d6">set_pair_mass</a> (std::pair&lt; double, double &gt; m)</td></tr>
+<tr class="separator:afebf621761b46adea1eaf8f5879535d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf88ac1424043de02417af46d0edcbaa" id="r_aaf88ac1424043de02417af46d0edcbaa"><td class="memItemLeft" align="right" valign="top">const std::pair&lt; double, double &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PotentialBase.html#aaf88ac1424043de02417af46d0edcbaa">pair_mass</a> ()</td></tr>
+<tr class="separator:aaf88ac1424043de02417af46d0edcbaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -149,6 +153,8 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a8536e15b04fed72f8f9a3f54938aa7b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acce0ef83f2bc5eb165fc42552dc70b91" id="r_acce0ef83f2bc5eb165fc42552dc70b91"><td class="memItemLeft" align="right" valign="top">PairIndices&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PotentialBase.html#acce0ef83f2bc5eb165fc42552dc70b91">m_uc_pair_indices</a></td></tr>
 <tr class="separator:acce0ef83f2bc5eb165fc42552dc70b91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2e6f613d05fb2a5a375921c89945a7e" id="r_aa2e6f613d05fb2a5a375921c89945a7e"><td class="memItemLeft" align="right" valign="top">std::pair&lt; double, double &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PotentialBase.html#aa2e6f613d05fb2a5a375921c89945a7e">m_pair_mass</a></td></tr>
+<tr class="separator:aa2e6f613d05fb2a5a375921c89945a7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6191f48f601d2f10b70d340eb59be3f7" id="r_a6191f48f601d2f10b70d340eb59be3f7"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classocc_1_1main_1_1PotentialBase.html#a6191f48f601d2f10b70d340eb59be3f7">r0</a></td></tr>
 <tr class="separator:a6191f48f601d2f10b70d340eb59be3f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -314,6 +320,31 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="aaf88ac1424043de02417af46d0edcbaa" name="aaf88ac1424043de02417af46d0edcbaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf88ac1424043de02417af46d0edcbaa">&#9670;&#160;</a></span>pair_mass()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::pair&lt; double, double &gt; &amp; occ::main::PotentialBase::pair_mass </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a0ff6026d86d28971c74c71d31a3b5af8" name="a0ff6026d86d28971c74c71d31a3b5af8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a0ff6026d86d28971c74c71d31a3b5af8">&#9670;&#160;</a></span>second_derivative() <span class="overload">[1/2]</span></h2>
 
@@ -383,6 +414,32 @@ Public Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const PairIndices &amp;&#160;</td>
           <td class="paramname"><em>pair_indices</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="afebf621761b46adea1eaf8f5879535d6" name="afebf621761b46adea1eaf8f5879535d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afebf621761b46adea1eaf8f5879535d6">&#9670;&#160;</a></span>set_pair_mass()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void occ::main::PotentialBase::set_pair_mass </td>
+          <td>(</td>
+          <td class="paramtype">std::pair&lt; double, double &gt;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -482,6 +539,20 @@ Public Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">PairIndices occ::main::PotentialBase::m_pair_indices</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa2e6f613d05fb2a5a375921c89945a7e" name="aa2e6f613d05fb2a5a375921c89945a7e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2e6f613d05fb2a5a375921c89945a7e">&#9670;&#160;</a></span>m_pair_mass</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::pair&lt;double, double&gt; occ::main::PotentialBase::m_pair_mass</td>
         </tr>
       </table>
 </div><div class="memdoc">
