@@ -1,7 +1,5 @@
 var NAVTREEINDEX43 =
 {
-"units_8h.html#aad44928ebfc08a95167b037397c9a67d":[5,0,1,0,1,40,3],
-"units_8h.html#ad22b5bda4602a584d0512abba0ec4ee2":[5,0,1,0,1,40,11],
 "units_8h.html#ad38a938470af50d5efd5fbc678bb15b7":[5,0,1,0,1,40,8],
 "units_8h.html#ad950de008676fad754f2dcfababc263e":[5,0,1,0,1,40,5],
 "units_8h.html#af2b5a09e976e46202d8f3be996332ee3":[5,0,1,0,1,40,0],
