@@ -244,8 +244,8 @@ Functions</h2></td></tr>
 <tr class="separator:a28cd2bbd8e2856f5dbd5fcfa396cb6be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0cb4759bb53f318980215942c97c03b2" id="r_a0cb4759bb53f318980215942c97c03b2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a0cb4759bb53f318980215942c97c03b2">run_elastic_subcommand</a> (<a class="el" href="structocc_1_1main_1_1ElasticSettings.html">ElasticSettings</a> const &amp;)</td></tr>
 <tr class="separator:a0cb4759bb53f318980215942c97c03b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e1431a34ada5ff117bb471071f44130" id="r_a5e1431a34ada5ff117bb471071f44130"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a5e1431a34ada5ff117bb471071f44130">print_cvector</a> (const <a class="el" href="namespaceocc.html#a341ac2fb4470f9a4c562ca9e01e0bb9b">occ::CVec</a> &amp;vec, int per_line)</td></tr>
-<tr class="separator:a5e1431a34ada5ff117bb471071f44130"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a272732bfa47875a894a4aad96fa8de12" id="r_a272732bfa47875a894a4aad96fa8de12"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a272732bfa47875a894a4aad96fa8de12">print_vector</a> (std::vector&lt; double &gt; &amp;vec, int per_line)</td></tr>
+<tr class="separator:a272732bfa47875a894a4aad96fa8de12"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:accb079ec917c3744ae2c40453ad72533" id="r_accb079ec917c3744ae2c40453ad72533"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#accb079ec917c3744ae2c40453ad72533">print_matrix_full</a> (const <a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a> &amp;matrix, int precision=6, int width=12)</td></tr>
 <tr class="separator:accb079ec917c3744ae2c40453ad72533"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a70a8ec5fec770d85b148a0f3b427b9ae" id="r_a70a8ec5fec770d85b148a0f3b427b9ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceocc_1_1main.html#a70a8ec5fec770d85b148a0f3b427b9ae">print_matrix_upper_triangle</a> (const <a class="el" href="namespaceocc.html#abc0f8b29c42815ff2318bb8c63673c19">occ::Mat6</a> &amp;matrix, int precision=3, int width=9)</td></tr>
@@ -868,42 +868,6 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a5e1431a34ada5ff117bb471071f44130" name="a5e1431a34ada5ff117bb471071f44130"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e1431a34ada5ff117bb471071f44130">&#9670;&#160;</a></span>print_cvector()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void occ::main::print_cvector </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="namespaceocc.html#a341ac2fb4470f9a4c562ca9e01e0bb9b">occ::CVec</a> &amp;&#160;</td>
-          <td class="paramname"><em>vec</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>per_line</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="ae6120cd9d924a194e7f3a1decd5cb6d8" name="ae6120cd9d924a194e7f3a1decd5cb6d8"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae6120cd9d924a194e7f3a1decd5cb6d8">&#9670;&#160;</a></span>print_header()</h2>
 
@@ -1037,6 +1001,42 @@ Functions</h2></td></tr>
           <td></td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>width</em> = <code>9</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a272732bfa47875a894a4aad96fa8de12" name="a272732bfa47875a894a4aad96fa8de12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a272732bfa47875a894a4aad96fa8de12">&#9670;&#160;</a></span>print_vector()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void occ::main::print_vector </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; double &gt; &amp;&#160;</td>
+          <td class="paramname"><em>vec</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>per_line</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
