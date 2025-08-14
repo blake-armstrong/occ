@@ -9,6 +9,12 @@ var occ__elastic__fit_8h =
     [ "occ::main::LJ_AWrapper", "classocc_1_1main_1_1LJ__AWrapper.html", "classocc_1_1main_1_1LJ__AWrapper" ],
     [ "occ::main::PES", "classocc_1_1main_1_1PES.html", "classocc_1_1main_1_1PES" ],
     [ "occ::main::EFSettings", "structocc_1_1main_1_1EFSettings.html", "structocc_1_1main_1_1EFSettings" ],
+    [ "LinearSolverType", "occ__elastic__fit_8h.html#afa6fd28207c29e0993a8a59d46ced1a1", [
+      [ "LU", "occ__elastic__fit_8h.html#afa6fd28207c29e0993a8a59d46ced1a1a920d0c66f3d2ad926a6d590a5d244bd9", null ],
+      [ "SVD", "occ__elastic__fit_8h.html#afa6fd28207c29e0993a8a59d46ced1a1a595e2d2f1a68ede96e96f849a85370bc", null ],
+      [ "QR", "occ__elastic__fit_8h.html#afa6fd28207c29e0993a8a59d46ced1a1a66c35cd8077f7e1db5faefbc048a646a", null ],
+      [ "LDLT", "occ__elastic__fit_8h.html#afa6fd28207c29e0993a8a59d46ced1a1aafe68c3d9b8f17dc7c1b6916771ee557", null ]
+    ] ],
     [ "PotentialType", "occ__elastic__fit_8h.html#ad0d0e916933700c0a71955747f8a9262", [
       [ "MORSE", "occ__elastic__fit_8h.html#ad0d0e916933700c0a71955747f8a9262afe73263580a8fc053b1f0dad16c22927", null ],
       [ "LJ", "occ__elastic__fit_8h.html#ad0d0e916933700c0a71955747f8a9262a388d9e1171b3e4aeae9adc4e26ca15ae", null ],

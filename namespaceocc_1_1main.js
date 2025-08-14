@@ -33,6 +33,12 @@ var namespaceocc_1_1main =
     [ "AtomList", "namespaceocc_1_1main.html#a28fb2b00851f8aa959f1188eb702d21d", null ],
     [ "MoleculeList", "namespaceocc_1_1main.html#aacf219b1a5bc1d456fccd140b29ff763", null ],
     [ "WavefunctionList", "namespaceocc_1_1main.html#ac85c86d6d9a88925da1c4fd9831a3d05", null ],
+    [ "LinearSolverType", "namespaceocc_1_1main.html#afa6fd28207c29e0993a8a59d46ced1a1", [
+      [ "LU", "namespaceocc_1_1main.html#afa6fd28207c29e0993a8a59d46ced1a1a920d0c66f3d2ad926a6d590a5d244bd9", null ],
+      [ "SVD", "namespaceocc_1_1main.html#afa6fd28207c29e0993a8a59d46ced1a1a595e2d2f1a68ede96e96f849a85370bc", null ],
+      [ "QR", "namespaceocc_1_1main.html#afa6fd28207c29e0993a8a59d46ced1a1a66c35cd8077f7e1db5faefbc048a646a", null ],
+      [ "LDLT", "namespaceocc_1_1main.html#afa6fd28207c29e0993a8a59d46ced1a1aafe68c3d9b8f17dc7c1b6916771ee557", null ]
+    ] ],
     [ "PotentialType", "namespaceocc_1_1main.html#ad0d0e916933700c0a71955747f8a9262", [
       [ "MORSE", "namespaceocc_1_1main.html#ad0d0e916933700c0a71955747f8a9262afe73263580a8fc053b1f0dad16c22927", null ],
       [ "LJ", "namespaceocc_1_1main.html#ad0d0e916933700c0a71955747f8a9262a388d9e1171b3e4aeae9adc4e26ca15ae", null ],
