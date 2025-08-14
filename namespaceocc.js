@@ -78,6 +78,7 @@ var namespaceocc =
       [ "EV_TO_KJ_PER_MOL", "namespaceocc_1_1units.html#af6152c17fa3c68fec7ea231f47889bf7", null ],
       [ "KJ_PER_MOL_PER_ANGSTROM3_TO_GPA", "namespaceocc_1_1units.html#ad22b5bda4602a584d0512abba0ec4ee2", null ],
       [ "KJ_TO_KCAL", "namespaceocc_1_1units.html#a225cac13d440178e598a1854c51a13c1", null ],
+      [ "LIGHTSPEED", "namespaceocc_1_1units.html#af652977f4557a91f03ed32e760649be5", null ],
       [ "PI", "namespaceocc_1_1units.html#a028d775e813e880062aff24bec1a1b4a", null ]
     ] ],
     [ "util", "namespaceocc_1_1util.html", [

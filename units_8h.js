@@ -13,5 +13,6 @@ var units_8h =
     [ "EV_TO_KJ_PER_MOL", "units_8h.html#af6152c17fa3c68fec7ea231f47889bf7", null ],
     [ "KJ_PER_MOL_PER_ANGSTROM3_TO_GPA", "units_8h.html#ad22b5bda4602a584d0512abba0ec4ee2", null ],
     [ "KJ_TO_KCAL", "units_8h.html#a225cac13d440178e598a1854c51a13c1", null ],
+    [ "LIGHTSPEED", "units_8h.html#af652977f4557a91f03ed32e760649be5", null ],
     [ "PI", "units_8h.html#a028d775e813e880062aff24bec1a1b4a", null ]
 ];

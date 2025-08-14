@@ -1,5 +1,13 @@
 var NAVTREEINDEX20 =
 {
+"grid__settings_8h.html#a6d073839ca41dcaa94a727a05838513f":[5,0,1,0,11,15,3],
+"grid__settings_8h.html#a71eabab10243c6e13ea9f1de9cc86868":[5,0,1,0,11,15,2],
+"grid__settings_8h.html#a71eabab10243c6e13ea9f1de9cc86868a5268eb265372a3bf6d86e32e9af2a1cd":[5,0,1,0,11,15,2,2],
+"grid__settings_8h.html#a71eabab10243c6e13ea9f1de9cc86868a6adf97f83acf6453d4a6a4b1070f3754":[5,0,1,0,11,15,2,0],
+"grid__settings_8h.html#a71eabab10243c6e13ea9f1de9cc86868a929a60543a3d798bb289678dcbebcb2b":[5,0,1,0,11,15,2,1],
+"grid__settings_8h.html#ac80751a7daf50e5d90ef35f2e0c6a95a":[5,0,1,0,11,15,5],
+"grid__types_8h.html":[5,0,1,0,4,5],
+"grid__types_8h.html#a14030e150f120f90476ca21d1d5e665b":[5,0,1,0,4,5,4],
 "grid__types_8h.html#a14030e150f120f90476ca21d1d5e665ba18cf5657f88a943304168f3fe466545b":[5,0,1,0,4,5,4,3],
 "grid__types_8h.html#a14030e150f120f90476ca21d1d5e665ba77cea6534c4bcad9a30a10b5e13cabdd":[5,0,1,0,4,5,4,1],
 "grid__types_8h.html#a14030e150f120f90476ca21d1d5e665ba8ac9622fa8f9e2af16386dd39aacae30":[5,0,1,0,4,5,4,4],
@@ -57,8 +65,8 @@ var NAVTREEINDEX20 =
 "hierarchy.html":[4,2],
 "hkl_8h.html":[5,0,1,0,2,4],
 "icosphere__mesh_8h.html":[5,0,1,0,8,2],
-"index.html":[0],
 "index.html":[],
+"index.html":[0],
 "index.html#example":[0,1],
 "index.html#welcome":[0,0],
 "index__cache_8h.html":[5,0,1,0,8,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX20 =
 "md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md24":[1,5],
 "md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md25":[1,5,0],
 "md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md26":[1,5,1],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md27":[1,6],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md28":[1,7],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md3":[1,0,1],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md4":[1,1],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md5":[1,1,0],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md6":[1,1,1],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md7":[1,2],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md8":[1,2,0],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md9":[1,2,0,0]
+"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md27":[1,6]
 };
