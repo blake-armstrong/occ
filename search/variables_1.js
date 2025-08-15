@@ -42,7 +42,7 @@ var searchData=
   ['au_5fto_5fkelvin_39',['AU_TO_KELVIN',['../namespaceocc_1_1units.html#a64d3d2274e49ea9230f4cb8fc31bbb8f',1,'occ::units']]],
   ['au_5fto_5fkj_5fper_5fmol_40',['AU_TO_KJ_PER_MOL',['../namespaceocc_1_1units.html#a82df95b564a97fefb8f9ee088b9b647b',1,'occ::units']]],
   ['au_5fto_5fper_5fcm_41',['AU_TO_PER_CM',['../namespaceocc_1_1units.html#ad38a938470af50d5efd5fbc678bb15b7',1,'occ::units']]],
-  ['avogadro_42',['avogadro',['../namespaceocc_1_1constants.html#ae0a7aca05941fa0a634ebffe288274bb',1,'occ::constants']]],
+  ['avogadro_42',['avogadro',['../namespaceocc_1_1constants.html#ae0a7aca05941fa0a634ebffe288274bb',1,'occ::constants::avogadro'],['../namespaceocc_1_1units.html#ae06c9834108938ec02a3261f26c3dbf1',1,'occ::units::AVOGADRO']]],
   ['axes_43',['axes',['../structocc_1_1core_1_1MolecularAxisResult.html#a74196873788e2a54526742c6d5f0b473',1,'occ::core::MolecularAxisResult']]],
   ['axis_5fatoms_44',['axis_atoms',['../structocc_1_1core_1_1MolecularAxisResult.html#a930bac2d073fd55678d2784e02a6cd6f',1,'occ::core::MolecularAxisResult::axis_atoms'],['../structocc_1_1core_1_1NeighcrysAxisInfo.html#afc03e138236b965115b2d4fd2cceb341',1,'occ::core::NeighcrysAxisInfo::axis_atoms'],['../structocc_1_1driver_1_1DMAConfig.html#aa09aa90de15d41c7ba52cc25488b2b90',1,'occ::driver::DMAConfig::axis_atoms']]],
   ['axis_5ffilename_45',['axis_filename',['../structocc_1_1driver_1_1DMAConfig.html#a571063f8c0fd5897f0cec75d76335df1',1,'occ::driver::DMAConfig']]],

@@ -11,5 +11,6 @@ var structocc_1_1main_1_1EFSettings =
     [ "scale_factor", "structocc_1_1main_1_1EFSettings.html#af3eff402c9650a642a602c15799fdb08", null ],
     [ "solver_type", "structocc_1_1main_1_1EFSettings.html#ac2d2e43caf9f8cdb9eeb7a99dd5402bd", null ],
     [ "solver_type_str", "structocc_1_1main_1_1EFSettings.html#a8f9d43105f8822ed6c7523774eb531ed", null ],
-    [ "svd_threshold", "structocc_1_1main_1_1EFSettings.html#aa246e07c0a217591747f237e39c060e3", null ]
+    [ "svd_threshold", "structocc_1_1main_1_1EFSettings.html#aa246e07c0a217591747f237e39c060e3", null ],
+    [ "temperature", "structocc_1_1main_1_1EFSettings.html#a73a82dc2d273f4911b3d7983f5d7d434", null ]
 ];

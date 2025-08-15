@@ -9,10 +9,13 @@ var units_8h =
     [ "AU_TO_KELVIN", "units_8h.html#a64d3d2274e49ea9230f4cb8fc31bbb8f", null ],
     [ "AU_TO_KJ_PER_MOL", "units_8h.html#a82df95b564a97fefb8f9ee088b9b647b", null ],
     [ "AU_TO_PER_CM", "units_8h.html#ad38a938470af50d5efd5fbc678bb15b7", null ],
+    [ "AVOGADRO", "units_8h.html#ae06c9834108938ec02a3261f26c3dbf1", null ],
     [ "BOHR_TO_ANGSTROM", "units_8h.html#a4cd54c073c4aca586807e033f16e37b7", null ],
+    [ "BOLTZMANN", "units_8h.html#ad08119c195a6957c018996eb0f6c77ab", null ],
     [ "EV_TO_KJ_PER_MOL", "units_8h.html#af6152c17fa3c68fec7ea231f47889bf7", null ],
     [ "KJ_PER_MOL_PER_ANGSTROM3_TO_GPA", "units_8h.html#ad22b5bda4602a584d0512abba0ec4ee2", null ],
     [ "KJ_TO_KCAL", "units_8h.html#a225cac13d440178e598a1854c51a13c1", null ],
     [ "LIGHTSPEED", "units_8h.html#af652977f4557a91f03ed32e760649be5", null ],
-    [ "PI", "units_8h.html#a028d775e813e880062aff24bec1a1b4a", null ]
+    [ "PI", "units_8h.html#a028d775e813e880062aff24bec1a1b4a", null ],
+    [ "PLANCK", "units_8h.html#aa01b5ba5023556391d14a96250ffd7c1", null ]
 ];

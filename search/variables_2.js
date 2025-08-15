@@ -17,7 +17,7 @@ var searchData=
   ['binary_5foutput_14',['binary_output',['../structocc_1_1isosurface_1_1IsosurfaceGenerationParameters.html#aa54237d4a9f3150aefde2a3d9d769107',1,'occ::isosurface::IsosurfaceGenerationParameters::binary_output'],['../structocc_1_1main_1_1IsosurfaceConfig.html#a7b94e7f993cc35bacfd287f712589349',1,'occ::main::IsosurfaceConfig::binary_output']]],
   ['bohr_5fper_5fangstrom_15',['bohr_per_angstrom',['../namespaceocc_1_1constants.html#a49eaa9fa75c7856104a77aaaf0b077a4',1,'occ::constants']]],
   ['bohr_5fto_5fangstrom_16',['BOHR_TO_ANGSTROM',['../namespaceocc_1_1units.html#a4cd54c073c4aca586807e033f16e37b7',1,'occ::units']]],
-  ['boltzmann_17',['boltzmann',['../namespaceocc_1_1constants.html#a6a86c91b0dc4b29f21b164fd471f95fa',1,'occ::constants']]],
+  ['boltzmann_17',['boltzmann',['../namespaceocc_1_1units.html#ad08119c195a6957c018996eb0f6c77ab',1,'occ::units::BOLTZMANN'],['../namespaceocc_1_1constants.html#a6a86c91b0dc4b29f21b164fd471f95fa',1,'occ::constants::boltzmann']]],
   ['bond_5flength_18',['bond_length',['../structocc_1_1io_1_1QCSchemaBond.html#a6704d7eb430efde22591715facd839cc',1,'occ::io::QCSchemaBond']]],
   ['border_19',['border',['../structocc_1_1io_1_1RowConfiguration.html#a6421accdf188fe4984471089f3b683d1',1,'occ::io::RowConfiguration::border'],['../structocc_1_1io_1_1ColumnConfiguration.html#a78437759a8f6c16669742fc43cebe647',1,'occ::io::ColumnConfiguration::border']]],
   ['bottom_20',['bottom',['../structocc_1_1io_1_1RowConfiguration_1_1Border.html#a5e34d88b54f1dac63618d6c399f9c88b',1,'occ::io::RowConfiguration::Border']]],
