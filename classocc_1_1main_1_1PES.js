@@ -2,7 +2,7 @@ var classocc_1_1main_1_1PES =
 [
     [ "PES", "classocc_1_1main_1_1PES.html#a4a70350fda6f115f71daa818f4054f14", null ],
     [ "add_potential", "classocc_1_1main_1_1PES.html#ac7320ef8e6225c2ff58c615f7df29f45", null ],
-    [ "compute_phonons", "classocc_1_1main_1_1PES.html#a9e16dc43132be9ecd66599b28b30bd60", null ],
+    [ "compute_phonons", "classocc_1_1main_1_1PES.html#a17b38496fc0f352787b9d25bb00bbdcf", null ],
     [ "crystal", "classocc_1_1main_1_1PES.html#a4285edeca788190f21d811ab0fa0a9b4", null ],
     [ "get_temperature", "classocc_1_1main_1_1PES.html#af9d75ef116b27f6520fc97389b257149", null ],
     [ "lattice_energy", "classocc_1_1main_1_1PES.html#a5a21fbcc11859e972149ae252d12b80c", null ],
@@ -12,5 +12,5 @@ var classocc_1_1main_1_1PES =
     [ "set_shift", "classocc_1_1main_1_1PES.html#a5ae17024f9b7919a72ec796b78382a4d", null ],
     [ "set_temperature", "classocc_1_1main_1_1PES.html#a9949080911671dc7831cdce862979ae0", null ],
     [ "shift", "classocc_1_1main_1_1PES.html#a9ab9377d35dc4c76768ac3b9bfc02342", null ],
-    [ "voigt_elastic_tensor_from_hessian", "classocc_1_1main_1_1PES.html#af42cd379a27a8753863d5a94e6248d78", null ]
+    [ "voigt_elastic_tensor_from_hessian", "classocc_1_1main_1_1PES.html#af63217847c6a2ba4ed0e29a26934ead5", null ]
 ];
