@@ -224,6 +224,7 @@ var hierarchy =
     [ "occ::cg::MoleculeResult", "structocc_1_1cg_1_1MoleculeResult.html", null ],
     [ "occ::gto::Momenta", "structocc_1_1gto_1_1Momenta.html", null ],
     [ "occ::gto::MomentaSpherical", "structocc_1_1gto_1_1MomentaSpherical.html", null ],
+    [ "occ::main::MonkhorstPack", "structocc_1_1main_1_1MonkhorstPack.html", null ],
     [ "occ::interaction::PairEnergy::Monomer", "structocc_1_1interaction_1_1PairEnergy_1_1Monomer.html", null ],
     [ "occ::main::Morse", "structocc_1_1main_1_1Morse.html", null ],
     [ "occ::qm::MP2Components", "structocc_1_1qm_1_1MP2Components.html", null ],

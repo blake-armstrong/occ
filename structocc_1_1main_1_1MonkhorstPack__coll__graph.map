@@ -1,0 +1,5 @@
+<map id="occ::main::MonkhorstPack" name="occ::main::MonkhorstPack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,197,148"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="71,5,131,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,44,104,123,99,123,99,44"/>
+</map>

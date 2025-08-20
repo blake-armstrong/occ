@@ -11,9 +11,10 @@ var searchData=
   ['geometry_5ffilename_8',['geometry_filename',['../structocc_1_1main_1_1DescribeConfig.html#a93a2005d18e521873a4d33499825bc5a',1,'occ::main::DescribeConfig::geometry_filename'],['../structocc_1_1main_1_1IsosurfaceConfig.html#a7ee45184433d00970661846c5ad9d8f1',1,'occ::main::IsosurfaceConfig::geometry_filename']]],
   ['gnorm_9',['gnorm',['../structocc_1_1io_1_1GMFWriter_1_1Facet.html#a78a95ba7ac7bcd8daa3e085560400adc',1,'occ::io::GMFWriter::Facet']]],
   ['golden_5fratio_10',['golden_ratio',['../structocc_1_1core_1_1opt_1_1Bracket1D.html#a7123ae3e082f8dc5ab43f2d2a1a81a03',1,'occ::core::opt::Bracket1D']]],
-  ['grid_5fspacing_11',['grid_spacing',['../structocc_1_1io_1_1AdaptiveGridBounds_1_1Parameters.html#ad3e104507d489577a5920419a4f6f2d2',1,'occ::io::AdaptiveGridBounds::Parameters']]],
-  ['grid_5ftype_12',['grid_type',['../structocc_1_1io_1_1GridFileHeader.html#a2a8a6a27e772e261347b2b3c20f0c8fa',1,'occ::io::GridFileHeader']]],
-  ['grow_5flimit_13',['grow_limit',['../structocc_1_1core_1_1opt_1_1Bracket1D.html#a8e9ea0a6d2c52db1639119805be41cf9',1,'occ::core::opt::Bracket1D']]],
-  ['gulp_5ffile_14',['gulp_file',['../structocc_1_1main_1_1EFSettings.html#a47703384f1119ec08221cb0d7a9f4d7b',1,'occ::main::EFSettings']]],
-  ['gulp_5fscale_15',['gulp_scale',['../structocc_1_1main_1_1EFSettings.html#a5ed89bb9a82b15f1c243433e9d5ee5c6',1,'occ::main::EFSettings']]]
+  ['grid_11',['grid',['../structocc_1_1main_1_1MonkhorstPack.html#af9e4f2bcb42b884af0f330d926305632',1,'occ::main::MonkhorstPack']]],
+  ['grid_5fspacing_12',['grid_spacing',['../structocc_1_1io_1_1AdaptiveGridBounds_1_1Parameters.html#ad3e104507d489577a5920419a4f6f2d2',1,'occ::io::AdaptiveGridBounds::Parameters']]],
+  ['grid_5ftype_13',['grid_type',['../structocc_1_1io_1_1GridFileHeader.html#a2a8a6a27e772e261347b2b3c20f0c8fa',1,'occ::io::GridFileHeader']]],
+  ['grow_5flimit_14',['grow_limit',['../structocc_1_1core_1_1opt_1_1Bracket1D.html#a8e9ea0a6d2c52db1639119805be41cf9',1,'occ::core::opt::Bracket1D']]],
+  ['gulp_5ffile_15',['gulp_file',['../structocc_1_1main_1_1EFSettings.html#a47703384f1119ec08221cb0d7a9f4d7b',1,'occ::main::EFSettings']]],
+  ['gulp_5fscale_16',['gulp_scale',['../structocc_1_1main_1_1EFSettings.html#a5ed89bb9a82b15f1c243433e9d5ee5c6',1,'occ::main::EFSettings']]]
 ];

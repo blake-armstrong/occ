@@ -1,5 +1,13 @@
 var NAVTREEINDEX20 =
 {
+"gmf_8h.html":[5,0,1,0,11,14],
+"gradients_8h.html":[5,0,1,0,14,6],
+"gradients_8h.html#a62eb74092482256f843a653357ad87e7":[5,0,1,0,14,6,2],
+"gradients_8h.html#a90d330aae8695310847c6faf75fb6a1d":[5,0,1,0,14,6,1],
+"graph_8h.html":[5,0,1,0,1,15],
+"grid__settings_8h.html":[5,0,1,0,11,15],
+"grid__settings_8h.html#a0049c665b8184e2a6ad982ac5db8d4bd":[5,0,1,0,11,15,1],
+"grid__settings_8h.html#a0049c665b8184e2a6ad982ac5db8d4bda1cdfb5ac70bfa18db750fbc1effea5bf":[5,0,1,0,11,15,1,3],
 "grid__settings_8h.html#a0049c665b8184e2a6ad982ac5db8d4bda1fb282a269a2bc94abc136c0511daa59":[5,0,1,0,11,15,1,0],
 "grid__settings_8h.html#a0049c665b8184e2a6ad982ac5db8d4bda5999b8900bb8b90cfa1af137d355ff14":[5,0,1,0,11,15,1,2],
 "grid__settings_8h.html#a0049c665b8184e2a6ad982ac5db8d4bdaeb6d8ae6f20283755b339c0dc273988b":[5,0,1,0,11,15,1,1],
@@ -69,8 +77,8 @@ var NAVTREEINDEX20 =
 "hierarchy.html":[4,2],
 "hkl_8h.html":[5,0,1,0,2,4],
 "icosphere__mesh_8h.html":[5,0,1,0,8,2],
-"index.html":[],
 "index.html":[0],
+"index.html":[],
 "index.html#example":[0,1],
 "index.html#welcome":[0,0],
 "index__cache_8h.html":[5,0,1,0,8,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX20 =
 "md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md13":[1,2,1],
 "md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md14":[1,2,1,0],
 "md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md15":[1,2,1,1],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md16":[1,2,1,2],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md17":[1,2,1,3],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md18":[1,2,1,4],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md19":[1,2,2],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md2":[1,0,0],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md20":[1,2,2,0],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md21":[1,2,2,1],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md22":[1,3],
-"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md23":[1,4]
+"md__2home_2runner_2work_2occ_2occ_2docs_2js-wasm-bindings.html#autotoc_md16":[1,2,1,2]
 };

@@ -330,6 +330,7 @@ var annotated_dup =
         [ "LJ_A", "structocc_1_1main_1_1LJ__A.html", "structocc_1_1main_1_1LJ__A" ],
         [ "LJ_AWrapper", "classocc_1_1main_1_1LJ__AWrapper.html", "classocc_1_1main_1_1LJ__AWrapper" ],
         [ "LJWrapper", "classocc_1_1main_1_1LJWrapper.html", "classocc_1_1main_1_1LJWrapper" ],
+        [ "MonkhorstPack", "structocc_1_1main_1_1MonkhorstPack.html", "structocc_1_1main_1_1MonkhorstPack" ],
         [ "Morse", "structocc_1_1main_1_1Morse.html", "structocc_1_1main_1_1Morse" ],
         [ "MorseWrapper", "classocc_1_1main_1_1MorseWrapper.html", "classocc_1_1main_1_1MorseWrapper" ],
         [ "MultiplicityValidator", "structocc_1_1main_1_1MultiplicityValidator.html", "structocc_1_1main_1_1MultiplicityValidator" ],
