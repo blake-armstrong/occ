@@ -2,7 +2,7 @@ var classocc_1_1main_1_1PES =
 [
     [ "PES", "classocc_1_1main_1_1PES.html#a4a70350fda6f115f71daa818f4054f14", null ],
     [ "add_potential", "classocc_1_1main_1_1PES.html#ac7320ef8e6225c2ff58c615f7df29f45", null ],
-    [ "animate_phonons", "classocc_1_1main_1_1PES.html#a02b497e512cf016ec4904a3aa90225da", null ],
+    [ "animate_phonons", "classocc_1_1main_1_1PES.html#aa3aa015c02c691ffbfadf6e3034db022", null ],
     [ "compute_elastic_tensor", "classocc_1_1main_1_1PES.html#a56de63b231253832a3bc30384d3622e5", null ],
     [ "compute_fm_at_kpoint", "classocc_1_1main_1_1PES.html#af7eddf430800a9e1ef7904e6e1801f7f", null ],
     [ "compute_phonons_at_kpoint", "classocc_1_1main_1_1PES.html#a12652ebd366f292b1b4df3dc8f367b5f", null ],
