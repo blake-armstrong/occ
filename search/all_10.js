@@ -65,7 +65,7 @@ var searchData=
   ['phi_5fyz_62',['phi_yz',['../structocc_1_1gto_1_1GTOValues.html#adbcaf4e288e125bd8ab1bc8a573d0a3f',1,'occ::gto::GTOValues']]],
   ['phi_5fz_63',['phi_z',['../structocc_1_1gto_1_1GTOValues.html#aea3b80615fd6b93b11c2ded3b7cab6b9',1,'occ::gto::GTOValues']]],
   ['phi_5fzz_64',['phi_zz',['../structocc_1_1gto_1_1GTOValues.html#abfe6e7056ecbe5effa21538a6c82100d',1,'occ::gto::GTOValues']]],
-  ['phonon_5fdensity_5fof_5fstates_65',['phonon_density_of_states',['../classocc_1_1main_1_1PES.html#aa0ff74fbd26066a3a97770ea26099f84',1,'occ::main::PES']]],
+  ['phonons_65',['phonons',['../classocc_1_1main_1_1PES.html#a0685a1ccc1ae9dc32a220bbe1e941b51',1,'occ::main::PES']]],
   ['pi_66',['pi',['../namespaceocc_1_1units.html#a028d775e813e880062aff24bec1a1b4a',1,'occ::units::PI'],['../namespaceocc_1_1constants.html#ac6930578fafd8c4b018ba281349ab2ed',1,'occ::constants::pi']]],
   ['planck_67',['planck',['../namespaceocc_1_1constants.html#a09d810b3a282917f3a97b8311c389477',1,'occ::constants::planck'],['../namespaceocc_1_1units.html#aa01b5ba5023556391d14a96250ffd7c1',1,'occ::units::PLANCK']]],
   ['plane_68',['plane',['../classquickhull_1_1Plane.html#ae390857155091f4659af5e8256492efc',1,'quickhull::Plane::Plane(const Eigen::Matrix&lt; T, 3, 1 &gt; &amp;N, const Eigen::Matrix&lt; T, 3, 1 &gt; &amp;P)'],['../classquickhull_1_1Plane.html#a849e5e70b8a26b33922cec3e79e426a7',1,'quickhull::Plane::Plane()=default'],['../classquickhull_1_1Plane.html',1,'quickhull::Plane&lt; T &gt;']]],

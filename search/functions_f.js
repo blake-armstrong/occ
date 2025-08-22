@@ -23,7 +23,7 @@ var searchData=
   ['periodicgrid_20',['periodicgrid',['../classocc_1_1io_1_1PeriodicGrid.html#a6243cb948e293385d01580c5a5850bbf',1,'occ::io::PeriodicGrid::PeriodicGrid(const PeriodicGrid &amp;other)'],['../classocc_1_1io_1_1PeriodicGrid.html#abc72b023f1ac53962f32d71b8d416577',1,'occ::io::PeriodicGrid::PeriodicGrid()']]],
   ['permute_21',['permute',['../classocc_1_1core_1_1Molecule.html#aefa68557af9e9e453a1d2280d6e12907',1,'occ::core::Molecule']]],
   ['pes_22',['PES',['../classocc_1_1main_1_1PES.html#a4a70350fda6f115f71daa818f4054f14',1,'occ::main::PES']]],
-  ['phonon_5fdensity_5fof_5fstates_23',['phonon_density_of_states',['../classocc_1_1main_1_1PES.html#aa0ff74fbd26066a3a97770ea26099f84',1,'occ::main::PES']]],
+  ['phonons_23',['phonons',['../classocc_1_1main_1_1PES.html#a0685a1ccc1ae9dc32a220bbe1e941b51',1,'occ::main::PES']]],
   ['plane_24',['plane',['../classquickhull_1_1Plane.html#ae390857155091f4659af5e8256492efc',1,'quickhull::Plane::Plane(const Eigen::Matrix&lt; T, 3, 1 &gt; &amp;N, const Eigen::Matrix&lt; T, 3, 1 &gt; &amp;P)'],['../classquickhull_1_1Plane.html#a849e5e70b8a26b33922cec3e79e426a7',1,'quickhull::Plane::Plane()=default']]],
   ['plyelement_25',['plyelement',['../structtinyply_1_1PlyElement.html#a2aad69dcf5d9b4860df05805f48af0bd',1,'tinyply::PlyElement::PlyElement(const std::string &amp;_name, size_t count)'],['../structtinyply_1_1PlyElement.html#aac090e3b5ff542a9555b23c000e1fba8',1,'tinyply::PlyElement::PlyElement(std::istream &amp;istream)']]],
   ['plyfile_26',['PlyFile',['../structtinyply_1_1PlyFile.html#ae2ae6a9a5ae4c15d531dc7fdd335ae7a',1,'tinyply::PlyFile']]],

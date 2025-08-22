@@ -12,7 +12,7 @@ var classocc_1_1main_1_1PES =
     [ "lattice_energy", "classocc_1_1main_1_1PES.html#a5a21fbcc11859e972149ae252d12b80c", null ],
     [ "num_unique_molecules", "classocc_1_1main_1_1PES.html#a4a945bbc9c6b0fec5bd512208cdc2272", null ],
     [ "number_of_potentials", "classocc_1_1main_1_1PES.html#a86c5a3f25ee589d2bf3f7a708b0c0225", null ],
-    [ "phonon_density_of_states", "classocc_1_1main_1_1PES.html#aa0ff74fbd26066a3a97770ea26099f84", null ],
+    [ "phonons", "classocc_1_1main_1_1PES.html#a0685a1ccc1ae9dc32a220bbe1e941b51", null ],
     [ "set_scale", "classocc_1_1main_1_1PES.html#a120cd916f03ff47255eb23ec4c9bb9e2", null ],
     [ "set_shift", "classocc_1_1main_1_1PES.html#a5ae17024f9b7919a72ec796b78382a4d", null ],
     [ "set_temperature", "classocc_1_1main_1_1PES.html#a9949080911671dc7831cdce862979ae0", null ],
